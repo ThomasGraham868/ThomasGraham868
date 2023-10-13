@@ -3,6 +3,11 @@
 
 - <b>Home Lab</b>
   - [Raspberry Pi Home Lab](https://drive.google.com/file/d/1wSToqDLScovYt5zeRe6RKz1VI5UR2vSn/view?usp=drive_link)
+ 
+- <b>Reports</b>
+  - [Pen Test Report](https://drive.google.com/file/d/1EB86XBWo9DMq3v7xVUvusEZZl8eU9qu5/view?usp=drive_link)
+  - [Pen Test Executive Summary](https://drive.google.com/file/d/1Acc70VG2HxrYPzVWSqbTY_lUjG0xVAGn/view?usp=drive_link)
+  - [Security Assesment](https://drive.google.com/file/d/1CeRbXa13akSa-MHLSff-nad8TMG-craW/view?usp=drive_link)
 
 
 
