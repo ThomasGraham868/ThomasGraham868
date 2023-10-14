@@ -9,7 +9,8 @@
   - [Pen Test Executive Summary](https://drive.google.com/file/d/1Acc70VG2HxrYPzVWSqbTY_lUjG0xVAGn/view?usp=drive_link)
   - [Security Assessment](https://drive.google.com/file/d/1CeRbXa13akSa-MHLSff-nad8TMG-craW/view?usp=drive_link)
 
-
+- <b>JavaScript Project</b>
+  - ["The area of a triangle"](https://drive.google.com/file/d/1wH3xpABpC3PoO8KwnpktQbz2Xo9lB1TI/view?usp=drive_link)
 
 <h2> 🤳 Connect with me:</h2>
 
