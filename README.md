@@ -12,6 +12,10 @@
 - <b>JavaScript Project</b>
   - ["The area of a triangle"](https://drive.google.com/file/d/1wH3xpABpC3PoO8KwnpktQbz2Xo9lB1TI/view?usp=drive_link)
 
+ 
+- <b>Python Project</b>
+  - [Port Scanner](https://github.com/ThomasGraham868/port_scanner/blob/main/scan)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
